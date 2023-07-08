@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "503440900547",
+    "project_id": "senacstorageapp",
+    "storage_bucket": "senacstorageapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503440900547:android:21598b05cfa2dbf0993d76",
+        "android_client_info": {
+          "package_name": "com.example.senacstorageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503440900547-gq01kviiac6k9qifaviifqassqmj5bma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJUTcU-a9LTeVwzLJ3ufbNWxs4rCNGzuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503440900547-gq01kviiac6k9qifaviifqassqmj5bma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503440900547:android:050111f84796c055993d76",
+        "android_client_info": {
+          "package_name": "storageapp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503440900547-gq01kviiac6k9qifaviifqassqmj5bma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJUTcU-a9LTeVwzLJ3ufbNWxs4rCNGzuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503440900547-gq01kviiac6k9qifaviifqassqmj5bma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
